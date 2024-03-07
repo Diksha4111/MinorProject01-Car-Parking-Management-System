@@ -17,7 +17,7 @@
 
 
 ### Screenshot02
-<img src="https://user-images.githubusercontent.com/78994799/212466090-be2d7edd-d7fd-47a6-af73-d5d913b44ac2.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/78994799/212466090-be2d7edd-d7fd-47a6-af73-d5d913b44ac2.PNG" width="350" height="300">
 ![HOME_1](https://user-images.githubusercontent.com/78994799/212466090-be2d7edd-d7fd-47a6-af73-d5d913b44ac2.PNG)
 
 
