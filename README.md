@@ -15,12 +15,10 @@
 <img src="https://user-images.githubusercontent.com/78994799/212466124-95465bf4-9ce6-46c1-aa18-33e7278c5a78.PNG" width="450" height="350">
 
 ### Screenshot05
-
-![SHOW_DIRECTION_1](https://user-images.githubusercontent.com/78994799/212466155-70e82edc-b5e0-4309-ab86-24f21970438c.PNG)
+<img src="https://user-images.githubusercontent.com/78994799/212466155-70e82edc-b5e0-4309-ab86-24f21970438c.PNG" width="250" height="200">
 
 ### Screenshot06
-
-![viewslot1](https://user-images.githubusercontent.com/78994799/212466182-8f4aae10-8b9a-4927-979f-9eac62624b9b.PNG)
+<img src="https://user-images.githubusercontent.com/78994799/212466182-8f4aae10-8b9a-4927-979f-9eac62624b9b.PNG" width="450" height="350">
 
 ### Screenshot07
 
