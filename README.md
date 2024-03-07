@@ -24,7 +24,7 @@
 
 
 ### Screenshot03
-<img src="https://user-images.githubusercontent.com/78994799/212466105-ed9c608d-f2ec-49cc-b288-0114dafef2a3.PNG" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/78994799/212466105-ed9c608d-f2ec-49cc-b288-0114dafef2a3.PNG" width="400" height="300">
 ![bookslot1](https://user-images.githubusercontent.com/78994799/212466105-ed9c608d-f2ec-49cc-b288-0114dafef2a3.PNG)
 
 
