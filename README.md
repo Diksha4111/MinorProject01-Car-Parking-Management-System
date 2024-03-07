@@ -1,4 +1,4 @@
-# MinorProject01-Car-Parking-Management-System
+# ParkPrime-Car Parking Management System
 
 
 ## Screensots of the project
@@ -9,7 +9,7 @@
 
 ### Screenshot01
 
-![FIRST_1](https://user-images.githubusercontent.com/78994799/212466047-21d9f34a-0401-4f08-9c82-d1fce3718454.PNG)
+![FIRST_1](https://user-images.githubusercontent.com/78994799/212466047-21d9f34a-0401-4f08-9c82-d1fce3718454.PNG | width = 50)
 
 
 
